@@ -93,7 +93,7 @@ export const projects = [
     des: "CareerHive is a modern job search platform designed to connect job seekers with employers efficiently. Built using the ERN stack (Express, React, Node.js), it provides a seamless user experience with advanced features like job postings, user account management, and custom search filters.",
     img: "/ch2.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://carrerhive.onrender.com/",
   },
   // {
   //   id: 4,
