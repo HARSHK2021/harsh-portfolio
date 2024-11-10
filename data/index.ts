@@ -204,6 +204,7 @@ export const workExperience = [
 
 export const socialMedia = [
   {
+    
     id: 1,
     img: "/git.svg",
     link: "https://github.com/HARSHK2021/",

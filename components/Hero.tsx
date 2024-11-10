@@ -58,15 +58,16 @@ const Hero = () => {
             Hi There! <span className="wave">👋</span>
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I'M{" "}
+            I&apos;m{" "}
             <span className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl text-purple">
               Harsh Sagar
             </span>
           </p>
 
-          
-          <span className="type  text- text-sm md:text-xl lg:text-2xl  text-purple
-            ">
+          <span
+            className="type  text- text-sm md:text-xl lg:text-2xl  text-purple
+            "
+          >
             <span>Full Stack Developer</span>
           </span>
 
